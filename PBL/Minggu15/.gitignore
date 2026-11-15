@@ -4,10 +4,6 @@
 *.keras
 *.ipynb_checkpoints
 
-# Ignore datasets
-Dataset/
-images/
-
 # Ignore python cache
 __pycache__/
 .venv/
